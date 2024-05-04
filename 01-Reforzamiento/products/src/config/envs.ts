@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import 'dotenv/config'
 import { join } from 'path'
 import * as joi from 'joi'

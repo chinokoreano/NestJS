@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable prettier/prettier */
 import { Injectable, NotFoundException } from '@nestjs/common';
 import { v4 as UuidV4} from 'uuid';
 import { CreateProductDto } from './dto/create-product.dto';

@@ -1,9 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\prisma",
     "\\src",
+    "\\src\\common",
+    "\\src\\common\\dto",
+    "\\src\\config",
     "\\src\\products",
-    "\\src\\products\\dto"
+    "\\src\\products\\dto",
+    "\\src\\products\\entities"
   ],
+  "SelectedNode": "\\prisma\\schema.prisma",
   "PreviewInSolutionExplorer": false
 }
